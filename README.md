@@ -4,4 +4,4 @@ AHJ_3_Events
 
 [To open](https://markedone60.github.io/ahj_homework_events_3/)
 
-![CI](https://github.com/MArkedone60/ahj_homework_events_3/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/Markedone60/ahj_homework_events_3/actions/workflows/web.yml/badge.svg)
